@@ -44,7 +44,7 @@ Tools & Technologies Used
 | MySQL          | Data Storage & SQL Queries  |
 | Power BI       | Dashboard & Visualizations  |
 | Pandas         | Data Manipulation in Python |
-| Matplotlib     | Basic Plotting (Optional)   |
+| Matplotlib     | Basic Plotting              |
 
 ---
 
